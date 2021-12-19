@@ -8,9 +8,7 @@ import mui from '../../images/material-ui.png';
 import js from '../../images/javascript.png';
 import react from '../../images/react.png';
 import mongo from '../../images/mongodb.png';
-import node from '../../images/node-js-icon-8.jpg';
 import fire from '../../images/firebase.png';
-import heroku from '../../images/heroku.png';
 
 const Aboutme = () => {
     return (

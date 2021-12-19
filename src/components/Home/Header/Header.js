@@ -13,7 +13,7 @@ const Header = () => {
                         <h3 className='text-3xl  text-yellow-600 pb-3'>React Js Developer</h3>
                         <p>Want to stand as a qualified professional. Love to take on challenges, work with a team, and enjoy coding.</p>
                         <button className=' text-xl border border-solid border-black rounded py-2 px-6 mt-6 hover:bg-gray-900 hover:text-white focus:ring-2 focus:ring-green-600 transform hover:scale-105 duration-500'><a href="/home#contact">Contact Me</a></button>
-                        <button className=' text-xl border border-solid border-black rounded py-2 px-6 md:ml-4 mt-6 text-gray-100 bg-gray-900 hover:bg-gray-200 hover:text-black focus:ring-2 focus:ring-green-600 transform hover:scale-105 duration-500'><a href='https://drive.google.com/file/d/1TLInatzFv8EqZlPkWHq2jpVPfCwH8bkP/view?usp=sharing' target='blank' download>Download Resume</a></button>
+                        <button className=' text-xl border border-solid border-black rounded py-2 px-6 md:ml-4 mt-6 text-gray-100 bg-gray-900 hover:bg-gray-200 hover:text-black focus:ring-2 focus:ring-green-600 transform hover:scale-105 duration-500'><a href='https://drive.google.com/file/d/1K6cNLpManYZSBjapjBEceaZA7taWF5yc/view?usp=sharing' target='blank' download>Download Resume</a></button>
                     </div>
                 </div>
                 <div className='my-10'>
